@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Full Stack PHP Developer at FlipERP.
+I'm a Full Stack <b>PHP</b> Developer at FlipERP.
 </br>
-I'm working on Data migration, E-commerce new project with ERP integration, and I develop ERP Custom Software.
+I'm <b>working</b> on Data migration, E-commerce new project with ERP integration, and I develop ERP Custom Software.
 </br>
-I'm learning React Native, Redux, Flutter and Android.
+I'm <b>learning</b> React Native, Redux, Flutter and Android.
 
 
 
