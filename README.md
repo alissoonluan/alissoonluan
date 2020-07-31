@@ -6,6 +6,8 @@ I'm <b>working</b> on Data migration, E-commerce new project with ERP integratio
 </br>
 I'm <b>learning</b> React Native, Redux, Flutter and Android.
 
+<a href="https://www.linkedin.com/in/alisson-luan-silva-325127137/">Linkedin</a>
+
 
 
 
