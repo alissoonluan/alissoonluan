@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack <b>PHP</b> Developer at <b>Qyon.
+I'm a Full Stack <b>PHP</b> Developer at <b>Qyon</b>.
 </br>
 I'm <b>working</b> on Data migration, E-commerce new project with ERP integration, and I develop ERP Custom Software.
 </br>
