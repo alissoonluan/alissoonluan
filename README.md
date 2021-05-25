@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack <b>PHP</b> Developer at <b>CI&T</b>.
+I'm a Software Engineer at <b>CI&T</b>.
 </br>
 I have <b>experience</b> in web development, ERP custom software.
 </br>
