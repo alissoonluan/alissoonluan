@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Software Engineer at <b>CI&T</b>.
+I'm a Full stack developer at <b>Devskin</b>.
 </br>
-I have <b>experience</b> in web development, ERP custom software.
+I have <b>experience</b> in web development, ERP custom software and delivery plataform.
 </br>
-PHP, Laravel, jQuery, HTML/CSS, Bootstrap, PostgreeSQL, Github,Jira, RabbitMQ, Docker and Agile Methodology (SCRUM). 
+PHP, Laravel, NodeJs, ReactJs, Styled Components, ExpressJs, MaterialUI, JWT, jQuery, HTML/CSS, Bootstrap, PostgreeSQL, Github,Jira, RabbitMQ, Docker and Agile Methodology (SCRUM). 
 </br>
 I'm <b>learning</b> React, Node, React Native and Flutter.
 
