@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Full stack developer at <b>Devskin</b>.
+I'm a Full stack developer at <b>Toro Investimentos</b>.
 </br>
-I have <b>experience</b> in web development, ERP custom software and delivery plataform.
-</br>
-PHP, Laravel, NodeJs, ReactJs, Styled Components, ExpressJs, MaterialUI, JWT, jQuery, HTML/CSS, Bootstrap, PostgreeSQL, Github,Jira, RabbitMQ, Docker and Agile Methodology (SCRUM). 
+Nowadays, my focus is working with ReactJs and NodeJs for software development.
+Great experience with NodeJs, ReactJs, Express, Serverless, MaterialUI, Styled Components, PHP, Laravel, MVC, JIRA, Agile Methodology (SCRUM, KANBAN), Github, Javascript, Typescript, Jquery, Bootstrap, HTML, CSS, JWT, RabbitMQ, AWS, Kubernetes, Azure and Docker.
+Experience with relational databases and non-relational databases such as PostgreSQL, DynamoDB, MongoDB and MySQL.
 </br>
 Javascript enthusiast, always improving on the NodeJS language and the ReactJS framework.
 Curious, thirsty to learn, and self-taught. I am always learning and improving during my free time.
